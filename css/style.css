@@ -211,7 +211,7 @@ img {
     text-decoration: none;
     color: #231f20;
     background-color: #fdda9d;
-    background-image: url(/img/user-icon.png);
+    background-image: url(img/user-icon.png);
     background-repeat: no-repeat;
     background-position: 5px;
     border-radius: 25px;
@@ -389,7 +389,7 @@ img {
       text-decoration: none; }
   .slider-developments__item--name {
     padding-top: 15px;
-    background-image: url("/img/slider-icon.png");
+    background-image: url("img/slider-icon.png");
     background-repeat: no-repeat;
     background-position: 5px 0;
     min-height: 55px; }
